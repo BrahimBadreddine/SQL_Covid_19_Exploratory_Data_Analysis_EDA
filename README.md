@@ -20,8 +20,6 @@ The goal of this analysis is to understand how the pandemic evolved across diffe
 - Vaccination progress  
 - Global comparisons  
 
-This is written for non-technical readers, so no SQL or technical terms are required.
-
 ---
 
 ## 📊 What This Analysis Does
@@ -174,8 +172,6 @@ L’objectif est de comprendre comment la pandémie a évolué à travers les pa
 - L’exposition de la population  
 - L’avancement de la vaccination  
 - Les comparaisons mondiales  
-
-Ce document est écrit pour un public non technique, sans SQL ni termes techniques.
 
 ---
 

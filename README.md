@@ -313,3 +313,8 @@ Ce README permet de :
 - Donner une vision claire de la pandémie mondiale et locale  
 
 </details>
+
+---
+
+## 📌 Author
+**BRAHIM BADREDDINE**
